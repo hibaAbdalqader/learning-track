@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome my learning track
 
-You can use the [editor on GitHub](https://github.com/hibaAbdalqader/learning-track/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##  we learn how to make arepo and how to use Git which is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ## inorder to  interact with remote repositories, you need to use remote repositories to push information to and pull data from.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
 
-```markdown
-Syntax highlighted code block
+# By using git remote -v, you can view all the remote URLs next to their corresponding short names.
 
-# Header 1
-## Header 2
-### Header 3
+  # example: $ git remote -v
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hibaAbdalqader/learning-track/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
